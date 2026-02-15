@@ -27,7 +27,6 @@ The objective of this task was to perform structured email threat analysis and d
 ## 🛠️ Tools Used
 
 - Google Admin Toolbox – Message Header Analyzer  
-- MXToolbox Email Header Analyzer  
 - Browser inspection tools  
 - Microsoft Word (Documentation)  
 - GitHub (Project Submission)  
